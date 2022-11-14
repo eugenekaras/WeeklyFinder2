@@ -42,6 +42,7 @@
 		E9E269352922DBBE00B98612 = {
 			isa = PBXGroup;
 			children = (
+				E9E269552922DBFB00B98612 /* .gitignore */,
 				E9E269402922DBBE00B98612 /* WeeklyFinder */,
 				E9E2693F2922DBBE00B98612 /* Products */,
 			);
@@ -65,7 +66,6 @@
 				E9E2694A2922DBBF00B98612 /* Assets.xcassets */,
 				E9E2694C2922DBBF00B98612 /* LaunchScreen.storyboard */,
 				E9E2694F2922DBBF00B98612 /* Info.plist */,
-				E9E269552922DBFB00B98612 /* .gitignore */,
 			);
 			path = WeeklyFinder;
 			sourceTree = "<group>";
